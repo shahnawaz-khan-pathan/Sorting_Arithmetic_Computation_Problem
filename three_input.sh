@@ -2,5 +2,7 @@
 a=10
 b=20
 c=30
-compute=$(($a+$b*$c))
-echo $compute
+compute1=$(($a+$b*$c))
+compute2=$(($a*$b+$c))
+echo $compute1
+echo $compute2
