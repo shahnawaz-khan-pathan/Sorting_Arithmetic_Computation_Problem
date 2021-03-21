@@ -14,3 +14,5 @@ arr[0]="1:$compute1"
 arr[2]="2:$compute2"
 arr[3]="3:$compute3"
 arr[4]="4:$compute4"
+
+echo "Array of result is ${arr[@]}"
